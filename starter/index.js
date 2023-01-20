@@ -29,7 +29,8 @@ const questions = [{
     Message: "List your collaborators, if any, with links to their GitHub profiles.",
     name: "Credits",
 }, {
-    type: "input",
+    //add a kind of list if you can, am I putting a badges section?
+    type: "input", // instead of input use list create another header function maybe? That can switch
     Message: "This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/]",
     name: "License",
 }, {
