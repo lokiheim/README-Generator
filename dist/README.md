@@ -1,8 +1,8 @@
 
-# lopo
-https://github.com/lokj/lopo
+# readme generator
+https://github.com/lokiheim/readme generator
 # Description
-home work
+project makes a proffesional looking readme
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,15 +11,15 @@ home work
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-The following necessary dependencies must be installed to run the application properly: none
+The following necessary dependencies must be installed to run the application properly: none runs from CLI
 # Usage
-In order to use this app, jkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+In order to use this app, as above
 # License
-This project is licensed under the MIT license. 
+This project is licensed under the  license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 # Contributing
 ​Contributors: undefined
 # Tests
-The following is needed to run the test: tiuy
+The following is needed to run the test: none
 # Questions
-If you have any questions about the repo, open an issue or contact lokj directly at : klklk;@loi.io.
+If you have any questions about the repo, open an issue or contact lokiheim directly at : loki@mail.com.
